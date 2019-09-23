@@ -1,0 +1,33 @@
+button {
+	width: 250px;
+	height: 70px;
+	background-color: #1c819e;
+	border: none;
+	color: white;
+	margin: auto;
+}
+
+.b1{
+	transition: background-color;
+	transition-duration: 1s;
+}
+
+.b1:hover {
+	background:  #FFBE00;
+}
+
+.b2{
+	transition: width;
+	transition-duration: 1s;
+}
+
+.b2:hover {
+	width: 350px;
+}
+
+
+
+.b3:hover{
+	background:  #FFBE00; 
+}
+
